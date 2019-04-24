@@ -1,20 +1,20 @@
 # Atlassian Agent
 
 #### Support (almost any version, include 8.0):
-* JIRA Software
+* JIRA Software [FAQ](doc/JIRA_FAQ.md)
 * JIRA Core
 * JIRA Service Desk
 * JIRA plugin: Capture
 * JIRA plugin: Training
 * JIRA plugin: Portfolio
-* Confluence
+* Confluence [Windows特别注意](doc/Confluence_FAQ.md)
 * Confluence plugin: Questions
 * Confluence plugin: Team Calendars
-* Bamboo
-* Bitbucket
-* FishEye
-* Crowd
-* Crucible
+* Bamboo [FAQ](doc/Bamboo_FAQ.md)
+* Bitbucket [FAQ](doc/Bitbucket_FAQ.md)
+* FishEye [FAQ](doc/FishEye_Crucible_FAQ.md)
+* Crowd [FAQ](doc/Crowd_FAQ.md)
+* Crucible [FAQ](doc/FishEye_Crucible_FAQ.md)
 * Third party plugins
 
 ## 使用说明
@@ -73,3 +73,9 @@
 * 欢迎你来一起完善这个项目，请发PR。
 * 你可以加入QQ群：30347511 和我实时交流。
 * 访问网站：[https://zhile.io](https://zhile.io) 给我留言。
+
+### 热心网友教程（感谢原作者，侵删！）
+* [confluence 安装及破解](https://www.qinjj.tech/2019/01/04/confluence%20install/)
+* [【黑科技】Atlassian产品线全破解](https://tech.cuixiangbin.com/?p=1248)
+* [通过Docker安装JIRA和Confluence（破解版）](https://www.jianshu.com/p/b95ceabd3e9d)
+* [通过Docker安装JIRA和Confluence（破解版）](https://my.oschina.net/wuweixiang/blog/3014644)
